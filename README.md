@@ -1,2 +1,2 @@
-# NTierProject-Sample2
+# NTierProject-Sample
 Katmanlı mimari örnek çalışma
